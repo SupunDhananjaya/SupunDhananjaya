@@ -95,7 +95,7 @@
 <img align="right" src="https://img.shields.io/badge/Qt-41CD52?logo=Qt&logoColor=white" />
 -->
 
-- 👨‍💻 <a href="https://github.com/SupunDhananjaya/CovInfo">Covid Vaccine and Information Management System</a>\
+- 👨‍💻 <a href="https://github.com/krishan30/CovInfo">Covid Vaccine and Information Management System</a>\
 📅 2021 
 📍 Semester 3 Object Oriented Software Development Project
 
