@@ -39,7 +39,9 @@
 <details>
 <summary>📃 Résumé</summary>
 
-## Projects
+<h3 align="center">
+    🔭 Projects
+</h3>
 
 <!--
 <img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
@@ -47,6 +49,7 @@
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 -->
 
+    
 - 👨‍💻 <a href="https://github.com/Async-Devs">Agriculture Marketplace and Data Dashboard</a>\
 📅 2022 (Ongoing)\
 📍 Semester 5 Software Engineering Group Project
@@ -57,7 +60,7 @@
 -->
 
 - 👨‍💻 <a href="https://supun-dhanajaya.itch.io/cursed">First Person Shooter Game</a>\
-📅 2022\
+📅 2022
 📍 Individual Project
 
 <!--
@@ -66,7 +69,7 @@
 -->
 
 - 👨‍💻 <a href="https://github.com/Deadline-Chasing-Devs/online-store">Single Vendor Marketplace</a>\
-📅 2022\
+📅 2022
 📍 Semester 4 Software Engineering Project
 
 <!--
@@ -75,7 +78,7 @@
 -->
 
 - 👨‍💻 <a href="https://github.com/neth99-coder/HRM-System">HR Management System</a>\
-📅 2022\ 
+📅 2022
 📍 Semester 4 Database Management System Project
 
 <!--
@@ -84,7 +87,7 @@
 -->
 
 - 👨‍💻 <a href="https://github.com/SupunDhananjaya/Driving-Assistance-System">Driving Assistant System</a>\
-📅 2022\ 
+📅 2021 
 📍 Semester 4 Programming Challenge Project
 
 <!--
@@ -93,7 +96,7 @@
 -->
 
 - 👨‍💻 <a href="https://github.com/SupunDhananjaya/CovInfo">Covid Vaccine and Information Management System</a>\
-📅 2022\ 
+📅 2021 
 📍 Semester 3 Object Oriented Software Development Project
 
 </details>
