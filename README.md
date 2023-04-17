@@ -26,15 +26,6 @@
 
 ---
 
-<p align="center">
-
-[![SupunDhananjaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupunDhananjaya&theme=vision-friendly-dark)](https://github.com/SupunDhananjaya/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunDhananjaya&layout=compact&theme=vision-friendly-dark)](https://github.com/SupunDhananjaya/github-readme-stats)
-
-</p>
-
----
 
 <details>
 <summary>📃 Résumé</summary>
