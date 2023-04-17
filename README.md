@@ -40,7 +40,7 @@
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 -->
     
-- 👨‍💻 <a href="https://github.com/Async-Devs](https://github.com/UMiSF">UMiSF official website</a>\
+- 👨‍💻 <a href="https://github.com/Async-Devs](https://github.com/UMiSF">UMiSF Official Website</a>\
 📅 2023
 📍 Group Project
 
