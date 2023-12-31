@@ -39,14 +39,20 @@
 <img align="right" src="https://img.shields.io/badge/Symfony-000000?logo=Symfony&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
 -->
+
+- 👨‍💻 <a href="https://github.com/SupunDhananjaya/PoeticFinder">PoeticFinder</a>\
+📅 2023
+📍 Individual Project
+
+- 👨‍💻 <a href="https://github.com/SupunDhananjaya/ml_project">Audio Classification Project</a>\
+📅 2023
+📍 Individual Project
+
     
-- 👨‍💻 <a href="https://github.com/Async-Devs](https://github.com/UMiSF">UMiSF Official Website</a>\
+- 👨‍💻 <a href="https://github.com/UMiSF">UMiSF Official Website</a>\
 📅 2023
 📍 Group Project
-
-<!--
-<img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />    
+ 
 
     
 - 👨‍💻 <a href="https://github.com/Async-Devs">Agriculture Marketplace and Data Dashboard</a>\
@@ -96,7 +102,7 @@
 
 - 👨‍💻 <a href="https://github.com/krishan30/CovInfo">Covid Vaccine and Information Management System</a>\
 📅 2021 
-📍 Semester 3 Object Oriented Software Development Project
+📍 Semester 3 Object-Oriented Software Development Project
 
 </details>
 
