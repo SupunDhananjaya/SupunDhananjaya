@@ -106,8 +106,22 @@
 
 </details>
 
+---
 
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupunDhananjaya&show_icons=true&theme=synthwave)
+<h3 align="center">
+    🌐 Find me:
+</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-dhananjaya/) [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?logo=google-chrome&logoColor=%23FFF)](https://supun-dasanayake.onrender.com) 
+
+---
+
+<h3 align="center">
+    📊 GitHub Stats:
+</h3>
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupunDhananjaya&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SupunDhananjaya&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SupunDhananjaya&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=SupunDhananjaya)
 
