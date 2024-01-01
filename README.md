@@ -107,6 +107,9 @@
 </details>
 
 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SupunDhananjaya&show_icons=true&theme=synthwave)
+
+![](https://komarev.com/ghpvc/?username=SupunDhananjaya)
 
 
 <!--
